@@ -1,0 +1,17 @@
+
+* `for`
+el for sirve para crear un bucles que 
+se forma en tres expresiones que pueden ser opcionales, 
+encerradas en paréntesis y separadas 
+por puntos y comas, seguidas de una sentencia ejecutada
+en un bucle, se utiliza para repetir una o más 
+instrucciones un determinado número de veces. 
+De entre todos los bucles, el FOR se suele utilizar 
+cuando sabemos seguro el número de veces que queremos que 
+se ejecute. La sintaxis del bucle for se muestra a continuación.
+
+* `&&`, `||`, `!`
+&& sirve para que el valor si y si retorne verdadero sin excepcion alguna
+|| sirve para que el valor si o si retorner un valor ya sea verdadero si el otro valor es falso, 
+retorna verdadero si ambos son verdaderos y retorna falso si ambos son falsos
+! sirve para que un valor que es verdadero se convierta en falso
